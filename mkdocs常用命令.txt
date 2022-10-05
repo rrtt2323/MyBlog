@@ -1,0 +1,2 @@
+本地调试博客 - mkdocs serve
+编译博客 - mkdocs build --clean

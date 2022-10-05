@@ -1,0 +1,9 @@
+site_name: rrtt_2323 blog
+
+nav:
+    - 主页: index.md
+    - 关于: about.md
+
+theme:
+    name: 'material'
+    language: 'zh'
